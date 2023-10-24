@@ -8,7 +8,7 @@ This project, I am will use how guide for do new projects in the future in the a
   normalmente lo hacemos con el formato SVG podemos darle Preview para ver el icono 
   o imagen y finalmente damos click en Export
 
-- Con la tipo de fuente que usa el proyecto igual damos click o podemos en la columna izq ir dando profundida
+- Con el tipo de fuente que usa el proyecto igual damos click o podemos en la columna izq ir dando profundida
   hasta llegar al titulo o parrafo de donde queremos saber el tipo de fuente que están utlizando
 
 - 
